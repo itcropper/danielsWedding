@@ -5,7 +5,7 @@
 	<div class='menu'>
 
 		<ul id='menu-list'>
-			<li class='menu-item current' name='myCarousel'><a href='#' >Home</a></li>
+			<li class='menu-item current' name='home'><a href='#' >Home</a></li>
 			<li class='menu-item' name='announcment'><a href='#' >Announcment</a></li>
 			<li class='menu-item' name='rsvp'><a href='#' >RSVP</a></li>
 			<li class='menu-item' name='our-story'><a href='#' >Our Story</a></li>
@@ -16,6 +16,9 @@
 	</div>
 
 	<div id='page-title'><img src='img/title.png' /> </div>
+
+	<div class='home' id='home'>
+	</div>
 
 	<div class='announcement' id='announcment'>
 		<h1>announcment</h1>
@@ -181,7 +184,8 @@
 				</div>
 				<div class="item">
 					<img class='slide-image' src='img/table_images/19.jpg' />
-				</div>																																																
+				</div>	
+
 			</div>
 
 

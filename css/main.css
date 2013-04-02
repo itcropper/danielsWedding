@@ -73,6 +73,11 @@ li a, h1{
 	*/
 }
 
+.home{
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
 #page-title{
 	position: absolute;
 	left:15%;
