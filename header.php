@@ -51,7 +51,7 @@
 					$(item).siblings(".item:last").fadeIn('fast');
 					$(item).siblings(".item:last").addClass('active');
 					$(item).fadeOut('slow');
-					$(item).removeClass('.active');
+					$(item).removeClass('active');
 
 				}else{
 					console.log("else")

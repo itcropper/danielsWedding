@@ -138,7 +138,7 @@
 					<img class='slide-image' src='img/table_images/3.jpg' />
 				</div>
 				<div class="item">
-					<img class='slide-image' src='img/table_images/4.jpg' />
+					<img class='slide-image' src='img/table_images/29.jpg' />
 				</div>
 				<div class="item">
 					<img class='slide-image' src='img/table_images/5.jpg' />
@@ -184,8 +184,31 @@
 				</div>
 				<div class="item">
 					<img class='slide-image' src='img/table_images/19.jpg' />
+				</div>
+				<div class="item">
+					<img class='slide-image' src='img/table_images/20.jpg' />
 				</div>	
-
+				<div class="item">
+					<img class='slide-image' src='img/table_images/21.jpg' />
+				</div>	
+				<div class="item">
+					<img class='slide-image' src='img/table_images/22.jpg' />
+				</div>	
+				<div class="item">
+					<img class='slide-image' src='img/table_images/27.jpg' />
+				</div>	
+				<div class="item">
+					<img class='slide-image' src='img/table_images/23.jpg' />
+				</div>	
+				<div class="item">
+					<img class='slide-image' src='img/table_images/28.jpg' />
+				</div>	
+				<div class="item">
+					<img class='slide-image' src='img/table_images/25.jpg' />
+				</div>																					
+				<div class="item">
+					<img class='slide-image' src='img/table_images/26.jpg' />
+				</div>					
 
 				<a class="carousel-control left" href="#myCarousel" data-interval="6000" data-slide="prev">&lsaquo;</a>
 				<a class="carousel-control right" href="#myCarousel" data-interval="6000" data-slide="next">&rsaquo;</a>
