@@ -15,9 +15,10 @@
 
 	</div>
 
-	<div id='page-title'><img src='img/title.png' /> </div>
-
 	<div class='home' id='home'>
+		<div id='page-title' class='slider'><img src='img/title.png' /> </div>
+
+	
 	</div>
 
 	<div class='announcement' id='announcment'>
@@ -88,7 +89,7 @@
 				</label>
 
 				<select name="entry.1288379601" id="entry_1288379601" aria-required="true">
-					<option value=""></option>
+					<option value="0">0</option>
 					<option value="1">1</option> 
 					<option value="2">2</option> 
 					<option value="3">3</option> 
@@ -125,10 +126,9 @@
 		<h1>Pictures</h1>
 
 
-		<div id="myCarousel" class="carousel slide">
 
-			<div class="carousel-inner">
-				<div class=" active item">
+			<div class="slider">
+				<div class="active item">
 					<img class='slide-image' src='img/table_images/1.jpg' />
 				</div>
 				<div class="item">
@@ -186,11 +186,9 @@
 					<img class='slide-image' src='img/table_images/19.jpg' />
 				</div>	
 
-			</div>
 
-
-			<a class="carousel-control left" href="#myCarousel" data-interval="6000" data-slide="prev">&lsaquo;</a>
-			<a class="carousel-control right" href="#myCarousel" data-interval="6000" data-slide="next">&rsaquo;</a>
+				<a class="carousel-control left" href="#myCarousel" data-interval="6000" data-slide="prev">&lsaquo;</a>
+				<a class="carousel-control right" href="#myCarousel" data-interval="6000" data-slide="next">&rsaquo;</a>
 		</div>
 
 	</div>
