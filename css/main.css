@@ -182,8 +182,6 @@ li a, h1{
 	left:0;
 	right:0;
 	border-radius: 3px;
-	-webkit-box-shadow:  3px 3px 3px 6px #232323;
-	box-shadow:  3px 3px 3px 6px #232323;
 	max-width: 95%;
 	max-height: 95%;
 }
